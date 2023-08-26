@@ -22,18 +22,18 @@
 
 // ES6
 
-
-var info = {
-    
-    name: "Zeeshan",
-    age: "10",
-    a: "a",
-    b:"b"
-
+let info={
+    name:"fatima",
+    age:20,
+    contact:"0310-78",
+    myClass:"cs",
+    roll :32,
 }
-var {name:names, age, a, b} = info
 
-console.log(names)
+let{name, age, contact, myClass, roll}=info
+
+console.log(name)
 console.log(age)
-console.log(a)
-console.log(b)
+console.log(contact)
+console.log(myClass)
+console.log(roll)
