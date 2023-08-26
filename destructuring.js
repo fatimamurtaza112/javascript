@@ -85,3 +85,4 @@ var [fi, se, th] = values
 console.log(fi)
 console.log(se)
 console.log(th)
+
