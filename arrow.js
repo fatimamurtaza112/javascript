@@ -10,10 +10,9 @@ console.log(b)
 
 
 
+// ES6 if returning a single line
 welcome =(a,b)=> a+b;
-
-
-// ES6
+// ES6 for returning multiple lines
 let welcome = (a, b) => {
 
     let result =a+b;
