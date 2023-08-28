@@ -4,6 +4,3 @@ console.log("hello " + name + " " + age +" ")
 
 //template litrals
 console.log(`hello ${name} ${age}`)
-
-
-
